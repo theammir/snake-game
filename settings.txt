@@ -1,0 +1,5 @@
+size of cell   - 20
+size of grid   - 20
+snake colour   - 240 240 100
+apple colour   - 240 10 10
+default length - 4
